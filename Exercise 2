@@ -46,11 +46,11 @@
   </head>
   <body>
     <div class="main">
-      <section class="left-section">leng</section>
+      <section class="left-section">Chanpiseth</section>
       <section class="right-section">
-        <div class="item">leng</div>
-        <div class="item">leng</div>
-        <div class="item">leng</div>
+        <div class="item">Chanpiseth</div>
+        <div class="item">Chanpiseth</div>
+        <div class="item">Chanpiseth</div>
       </section>
     </div>
   </body>
